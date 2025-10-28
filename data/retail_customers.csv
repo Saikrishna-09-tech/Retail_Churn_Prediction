@@ -1,0 +1,11 @@
+Customer_ID,Gender,Age,Total_Spend,Avg_Bill_Value,Visit_Frequency,Last_Purchase_Days,Feedback_Score,Offers_Used,Loyalty_Member,Churn
+C001,Male,28,12000,800,6,10,9,3,1,0
+C002,Female,35,5600,700,3,45,7,2,0,1
+C003,Male,41,3200,400,2,60,5,1,0,1
+C004,Female,23,14000,900,8,5,10,5,1,0
+C005,Male,38,7200,600,4,20,6,2,0,0
+C006,Female,45,2500,350,1,90,4,0,0,1
+C007,Male,31,9000,750,5,15,8,3,1,0
+C008,Female,29,4800,600,3,40,6,1,0,1
+C009,Male,50,2000,400,1,120,3,0,0,1
+C010,Female,27,11000,850,7,8,9,4,1,0
